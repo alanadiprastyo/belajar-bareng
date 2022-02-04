@@ -147,3 +147,4 @@ Ref:
 - https://docs.okd.io/4.9/installing/installing_gcp/installing-gcp-default.html#installing-gcp-default
 - https://docs.okd.io/4.9/installing/installing_gcp/installing-gcp-customizations.html#installation-gcp-config-yaml_installing-gcp-customizations
 - https://dustymabe.com/2020/10/07/gcp-quickstart-guide-for-openshift-okd/
+- https://www.youtube.com/watch?v=LpPsjAX-N8Q
