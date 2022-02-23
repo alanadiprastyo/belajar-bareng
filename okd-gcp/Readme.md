@@ -143,6 +143,11 @@ sshKey: |
 ./openshift-install destroy cluster --dir .
 ```
 
+13. Reconfigure Monitoring Stack
+```
+oc apply -f cluster-monitoring-stack.yml
+```
+
 Ref: 
 - https://docs.okd.io/4.9/installing/installing_gcp/installing-gcp-default.html#installing-gcp-default
 - https://docs.okd.io/4.9/installing/installing_gcp/installing-gcp-customizations.html#installation-gcp-config-yaml_installing-gcp-customizations
