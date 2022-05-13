@@ -92,3 +92,4 @@ go build -o example-hotrod
 Ref:
 - https://www.jaegertracing.io/docs/1.33/getting-started/
 - https://cert-manager.io/v1.6-docs/installation/#default-static-install
+- https://docs.google.com/presentation/d/1sse48klPW7QHH8ZrhJz-IYYMEwxdcptpcqHgBul4jG4/edit?usp=sharing
