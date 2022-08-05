@@ -107,8 +107,8 @@ kyvverno version
 
 ## Study Case - Consider the following policy and resources
 Note:
-- Audit
-- Enforce
+- Audit   : will report violations but not block requests
+- Enforce : block API requests that are non-compliant
 ```
 kyverno apply policy-resources.yaml -r resources1.yaml -r resources2.yaml --policy-report
 ```
