@@ -157,3 +157,9 @@ Refrensi:
 - https://www.alibabacloud.com/blog/how-to-install-bugzilla-on-centos-7_594622
 - https://www.jdknight.me/docs/sd/devops/setup-bugzilla-centos7.html
 - https://www.vultr.com/docs/how-to-install-bugzilla-5-0-x-on-centos-7/
+
+
+Ref Day 2:
+- https://www.javatpoint.com/bugzilla
+- https://www.guru99.com/bugzilla-tutorial-for-beginners.html
+- https://www.tutorialspoint.com/bugzilla/index.htm
